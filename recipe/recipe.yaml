@@ -1,5 +1,5 @@
 context:
-  version: "0.2.3"
+  version: "1.0.0"
   python_min: "3.12"
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/A/AutoREACTER/autoreacter-${{ version }}.tar.gz
-  sha256: 2a56186a8cc3bbba74ed738b4f4d597726de69c40b1ca24044120d4295c022dd
+  sha256: cc2cc6e271e9152e9fd9709800a880e208f6c288b6d21afcb21a4fdf04d99062
 
 build:
   noarch: python
